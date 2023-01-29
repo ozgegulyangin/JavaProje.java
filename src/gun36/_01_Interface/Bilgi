@@ -1,0 +1,3 @@
+- Interface'lere sadece metod eklenebilir, field eklenemez
+- Interface iki classta da kullanılabiliyor
+- İki tane ayrı Interface tek bir Class'ta kullanılabiliyor.

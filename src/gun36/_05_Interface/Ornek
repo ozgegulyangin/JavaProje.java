@@ -1,0 +1,25 @@
+Benzinli arac
+  4 tekerlek
+  direksiyon
+  aynalar
+  kapılar
+  benzin motoru
+
+Elektrikli arac
+  4 tekerlek
+  direksiyon
+  aynalar
+  kapılar
+  elektirk motoru
+  batarya
+
+hem Elektrikli hem Benzinli Hibrit
+//ikisinin ortak özellikleri
+ve artı özelliklerini alır
+  4 tekerlek
+  direksiyon
+  aynalar
+  kapılar
+  benzin motoru
+  elektrik motoru
+  batarya

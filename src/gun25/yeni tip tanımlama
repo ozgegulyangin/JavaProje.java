@@ -1,0 +1,23 @@
+
+
+int a , string b --->  yapısal programlama, eski nesil programlama
+
+Yeni nesil programlama --> Nesneye Yönelik Programlama
+                           Object Oriented Programming -- OOP
+
+                           Kendimiz tip tanımlayıp kullanıyoruz
+
+tip      nesne
+class    object
+Ogrenci  ogr1=new Ogrenci();
+         ogr1.Ad
+         ogr.Soyad
+
+ class Ogrenci{
+ String ad
+ String soyad
+ int OgrNo
+ String Adres
+ String telefon
+ double kilo
+ }
